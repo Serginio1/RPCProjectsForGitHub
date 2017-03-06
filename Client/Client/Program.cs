@@ -25,13 +25,7 @@ class Program
         return resTask;
     }
 
-    //static public void EventWithTwoParameter(dynamic value)
-    //{
-    //    Console.WriteLine("EventWithTwoParameter" + wrap.toString(value));
-
-
-    //    value(ClientRPC.AutoWrapClient.FlagDeleteObject);
-    //}
+   
 
     //  параметр value:Анонимный Тип
     // Свойства параметра
