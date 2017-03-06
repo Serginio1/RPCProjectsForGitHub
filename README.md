@@ -17,4 +17,5 @@ TestDll\bin\Release\netcoreapp1.1\ библиотеку TestDll.dll
 
 в каталоги
 Server\bin\Release\netcoreapp1.1\
+
 Client\bin\Release\netcoreapp1.1\
