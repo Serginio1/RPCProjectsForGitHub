@@ -1,6 +1,5 @@
 
 
-
 # RPCProjects
 Перед просмотром прочитайте статью .Net Core, AppDomain, WCF, RPC маршалинг по Tcp/Ip свой велосипед  
 https://habrahabr.ru/post/323096/
@@ -17,7 +16,5 @@ https://habrahabr.ru/post/323096/
 TestDll\bin\Release\netcoreapp1.1\ библиотеку TestDll.dll
 
 в каталоги
-
 Server\bin\Release\netcoreapp1.1\
-
 Client\bin\Release\netcoreapp1.1\
